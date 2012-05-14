@@ -1,3 +1,21 @@
+Release R1-1.1-0 / 14 May 2013
+
+- Added newHtml(...) to create freeform HTML elements in a report.
+
+- Added support for report citation information and Document Object Identifiers (DOIs).
+
+- New report attribute "subtitle". A subtitle can be written/read using "set/getReportSubTitle(..).
+
+- Logo section is no longer shown when no logos have been added to the report, effectively removing
+  empty space above the title and below the meta data section.
+  
+- Nozzle now supports freeform HTML content with custom styles supplied through newHtml(...). 
+
+- Various fixes.
+
+-----------------
+
+
 Release R1-1.0-0 / 8 January 2013
 
 - Fully documented API.
