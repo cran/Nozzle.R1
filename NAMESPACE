@@ -122,3 +122,5 @@ export(setSoftwareVersion)
 export(setTableFile)
 export(TABLE.SIGNIFICANT.DIGITS)
 export(writeReport)
+
+importFrom("stats", "runif")

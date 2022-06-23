@@ -1,7 +1,7 @@
 Package: Nozzle.R1
 Type: Package
 Title: Nozzle Reports
-Version: 1.1-1
+Version: 1.1-1.1
 Date: 2012-05-15
 Author: Nils Gehlenborg <nils@hms.harvard.edu>
 Maintainer: Nils Gehlenborg <nils@hms.harvard.edu>
@@ -24,7 +24,7 @@ Copyright: Nozzle is copyright 2013 The Fellows and President of
         under the MIT license. Copyright 2008 Christian Bach.
 LazyLoad: yes
 Collate: 'nozzle.R'
-Packaged: 2013-05-15 14:05:33 UTC; nils
+Packaged: 2022-06-23 06:56:21 UTC; hornik
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2013-05-15 19:25:56
+Date/Publication: 2022-06-23 07:18:39 UTC
